@@ -295,13 +295,16 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   line-height: 1.5em;
   width: 96%;
 }
-.banner button {
+.banner a {
   color: #fff;
   font-weight: 700;
   font-size: 20px;
   margin-top: 60px;
+  margin-right: 50px;
+  text-decoration: none;
   letter-spacing: 0.8px;
   display: flex;
+  display: inline-block;
   align-items: center;
 }
 .banner button svg {
@@ -310,8 +313,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   transition: 0.3s ease-in-out;
   line-height: 1;
 }
-.banner button:hover svg {
+.banner a:hover svg {
   margin-left: 25px;
+  transition: 0.4s;
 }
 .banner img {
   animation: updown 3s linear infinite;

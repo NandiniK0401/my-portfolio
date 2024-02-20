@@ -21,7 +21,7 @@ export const Footer = () => {
               <a href="https://www.facebook.com/nandini.khokhani.94" target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt="Icon" /></a>
               <a href="https://www.instagram.com/stars_envy/" target="_blank" rel="noopener noreferrer"><img src={navIcon3} alt="Icon" /></a>
             </div>
-            <p>Copyright 2022. All Rights Reserved</p>
+            <p>Copyright 2024. All Rights Reserved</p>
           </Col>
         </Row>
       </Container>
