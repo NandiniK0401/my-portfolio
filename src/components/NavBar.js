@@ -55,7 +55,7 @@ export const NavBar = () => {
                 <a href="https://www.facebook.com/nandini.khokhani.94" target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt="" /></a>
                 <a href="https://github.com/NandiniK0401" target="_blank" rel="noopener noreferrer"><i class="ri-github-fill"></i></a>
               </div>
-              <HashLink to='#Connect'>
+              <HashLink to='#connect'>
                 <button className="vvd"><span>Let's Connect</span></button>
               </HashLink>
             </span>
