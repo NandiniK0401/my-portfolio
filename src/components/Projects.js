@@ -8,6 +8,7 @@ import projImg3 from "../assets/img/project-img3.png";
 import projImg4 from "../assets/img/project-img4.png";
 import projImg5 from "../assets/img/project-img5.png";
 import projImg6 from "../assets/img/project-img6.png";
+import projImg7 from "../assets/img/project-img7.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -17,17 +18,24 @@ export const Projects = () => {
   const projects = [
     {
       title: "Youtube Clone",
-      description: "React.js/Tailwind CSS/Rapid API",
+      description: "ReactJS/Tailwind CSS/Rapid API",
       imgUrl: projImg1,
       url: "https://nk7-youtube-clone.netlify.app/",
       sourceCodeUrl: "https://github.com/NandiniK0401/my_youtube_clone"
     },
     {
-      title: "Chatify AI",
-      description: "React.js/Express.js",
+      title: "Chattifyy AI",
+      description: "ReactJS/ExpressJS",
       imgUrl: projImg2,
       url: "https://chattifyy.netlify.app/",
       sourceCodeUrl: "https://github.com/Vsaluja/AI-Chatbot"
+    },
+    {
+      title: "Pomodoro App",
+      description: "NextJS/TypeScript/TailwindCSS/Jest/Stripe",
+      imgUrl: projImg7,
+      url: "https://pomodorogod.onrender.com/",
+      sourceCodeUrl: "https://github.com/NSCC-ITC-Winter2024-WEBD5010and5015-MCa/webd5015-project-pomodoro-app"
     },
     {
       title: "Music Player App",

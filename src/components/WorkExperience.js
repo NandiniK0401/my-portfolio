@@ -6,7 +6,7 @@ const WorkExperience = () => {
       <h3 className="work-experience-title">Work Experience</h3> {/* Apply title class */}
       <ul>
         <li className="work-experience-item"> {/* Apply item class */}
-          <span className="work-experience-date">May 2023 - Present</span> {/* Apply date class */}
+          <span className="work-experience-date">May 2023 - April 2023</span> {/* Apply date class */}
           Passenger Service Agent at Swissport
         </li>
         <li className="work-experience-item"> {/* Apply item class */}
