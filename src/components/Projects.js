@@ -86,7 +86,7 @@ export const Projects = () => {
                       <Nav.Link eventKey="second">Education</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="third">Work Experience</Nav.Link>
+                      <Nav.Link eventKey="third">Work Exp</Nav.Link>
                     </Nav.Item>
                   </Nav>
                   <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
