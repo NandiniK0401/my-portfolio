@@ -5,8 +5,12 @@ const WorkExperience = () => {
     <div className="work-experience-container"> {/* Apply a container class */}
       <h3 className="work-experience-title">Work Experience</h3> {/* Apply title class */}
       <ul>
+      <li className="work-experience-item"> {/* Apply item class */}
+          <span className="work-experience-date">April 2024 - May 2024</span> {/* Apply date class */}
+          Mobile App Developer at NSCC-Project Blackbird
+        </li>
         <li className="work-experience-item"> {/* Apply item class */}
-          <span className="work-experience-date">May 2023 - April 2023</span> {/* Apply date class */}
+          <span className="work-experience-date">May 2023 - April 2024</span> {/* Apply date class */}
           Passenger Service Agent at Swissport
         </li>
         <li className="work-experience-item"> {/* Apply item class */}
